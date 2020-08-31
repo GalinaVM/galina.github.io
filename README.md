@@ -10,6 +10,6 @@ Here will be my certificate from Microsoft. My [profile](https://docs.microsoft.
 ## Programming skills:
 ### Python
 Numpy, Pandas, Beautiful Soup, String, Matplotlib, Seaborn
-Here is my [certificate of Achievement by HarvardX](https://courses.edx.org/certificates/aff4e72df6094c20a10cfccfba87cab4)
+<br /> Here is my [certificate of Achievement by HarvardX](https://courses.edx.org/certificates/aff4e72df6094c20a10cfccfba87cab4)
 ### SQL
 Dialects: PostgreSQL, Oracle SQL, MySQL, SQL Server
