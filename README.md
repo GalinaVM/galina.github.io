@@ -6,7 +6,7 @@
 ### Tableau
 Check my [profile](https://public.tableau.com/profile/galina5352#!/) 
 ### Power BI
-Microsoft certified: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8b8d7544-9139-4959-ba5c-22978e8a5bf6" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>. 
+[Microsoft certified]: <(https://www.youracclaim.com/badges/8b8d7544-9139-4959-ba5c-22978e8a5bf6/public_url)
 <br />
 ## Programming skills:
 ### Python
