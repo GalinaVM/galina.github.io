@@ -6,7 +6,7 @@
 ### Tableau
 Check my [profile](https://public.tableau.com/profile/galina5352#!/) 
 ### Power BI
-[Microsoft certified]: <(https://www.youracclaim.com/badges/8b8d7544-9139-4959-ba5c-22978e8a5bf6/public_url)
+Microsoft [certified](https://www.youracclaim.com/badges/8b8d7544-9139-4959-ba5c-22978e8a5bf6/public_url) Data Analyst
 <br />
 ## Programming skills:
 ### Python
