@@ -2,7 +2,6 @@
 date: 2020-10-27T10:58:08-04:00
 description: "I scraped data from Commodity Trade Statistics Database to create an analyses of global trade in Power BI"
 featured_image: "/images/Power BI1.png"
-tags: ["scene"]
 title: "Global Trade Statistics Analysis in Power BI"
 ---
 
