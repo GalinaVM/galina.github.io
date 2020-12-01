@@ -28,12 +28,11 @@ The second file , [train_labels.csv](https://courses.edx.org/assets/courseware/v
 5. I check how RandomForest, LogisticRegression, Support Vector Classifier and KNeighborsClassifier perform on train and validation dataset
 
 ## Results
-I am not really satisfied with the results with 63.2% of accuracy on a test dataset. I spent long time trying to figure out what features to extract to train the model. And I realize that this part is to be improved. 
-The pattern of activity was easy to detect for standing and walking activity, and not so obvious for moving up and down stairs. 
-Also I wish I could come up with the solution of giving the model the idea that labels shouldn't change every second, from train dataset I could see that it was at least a few seconds per activity.
-Also it was obvious that most of the time the person was walking and considering the imbalanced input data it might had led to the not so well results.
-Anyway KNN classifier was the best in this case and a lot needs to be improved.
+The pattern of activity was easy to detect for standing and walking activity, and not so obvious for moving up and down stairs. As for data balance it was obvious that most of the time the person was walking. The imbalanced input data might had led to the results of an accuracy on a test dataset of 63.2%. 
+I could significantly improve the model by finding the solution of giving the model the idea that labels shouldn't change every second. Also I could improve the model by finding out extra features to extract to train the model.
+Anyway KNN classifier was the best to perform in this case.
 
 ## Conclusion
-It was a great opportunity to practice and think. Unfortunately, it feels like more knowledge is needed. The task to classify the human activity is very interesting to solve. I invested a lot of time thinking about the project. The run time was fast, 3.125 seconds with KNN Classifier and 85.6% of accuracy on validation data set but 63.2% of accuracy on a test dataset.
+The task to classify the human activity is very interesting to solve. I invested a lot of time thinking about the project. The run time was fast, 3.125 seconds with KNN Classifier and 85.6% of accuracy on validation data set, and 63.2% of accuracy on a test dataset.
+It was a great opportunity to practice and think. I see an endless opportunity to gain more knowledge.
 {{< figure src="/images/HAR.png" >}}

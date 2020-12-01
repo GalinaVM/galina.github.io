@@ -12,6 +12,7 @@ Follow me on this social media platforms.
 Platform | URL
 ---|---
 LinkedIn: | http://www.linkedin.com/in/galina-metina
+Tableau Public: | https://public.tableau.com/profile/galina
 Medium: | https://medium.com/@galinametina
 Twitter: | https://twitter.com/GalinaMetina
 Github: | https://github.com/GalinaVM
